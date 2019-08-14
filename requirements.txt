@@ -1,0 +1,5 @@
+pylibra==0.1.10
+PyQRCode==1.2.1
+python-dotenv==0.10.3
+slackclient==1.3.0
+termcolor==1.1.0
