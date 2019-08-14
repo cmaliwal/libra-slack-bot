@@ -20,4 +20,4 @@ A simple libra bot using python.
 
 ![libra bot terminal](/images/libra_bot_terminal.png)
 
-Note: You need to [create a Slack App] (https://api.slack.com/apps/new) to receive an API token for your bot.
+Note: You need to [create a Slack App](https://api.slack.com/apps/new) to receive an API token for your bot.
