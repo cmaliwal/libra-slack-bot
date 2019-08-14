@@ -2,11 +2,7 @@
 
 A simple libra bot using python.
 
-
-
 ![libra slack bot](/images/libra_bot.png)
-
-
 
 ### Tech stack :
 
@@ -22,6 +18,6 @@ A simple libra bot using python.
 
 2. slack-client : https://github.com/slackapi/python-slackclient
 
-
-
 ![libra bot terminal](/images/libra_bot_terminal.png)
+
+Note: You need to [create a Slack App] (https://api.slack.com/apps/new) to receive an API token for your bot.
