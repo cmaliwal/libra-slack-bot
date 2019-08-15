@@ -1,4 +1,4 @@
-FROM python:3.6-alpine AS base
+FROM python:3.6 AS base
 MAINTAINER Chirag Maliwal "chiragmaliwal1995@gmail.com"
 
 # ---- Dependencies ----
