@@ -11,6 +11,14 @@ A simple libra bot using python.
 3. slackApi 
 4. pylibra
 
+### Docker
+
+```
+docker build -t libra-slack-bot:0.0.1 .
+
+docker run libra-slack-bot:0.0.1
+```
+
 
 ### References :
 
